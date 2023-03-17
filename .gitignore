@@ -21,7 +21,7 @@ Temporary Items
 .apdisk
 
 #data
-.data
+data/
 
 *.bundle.*
 lib/
